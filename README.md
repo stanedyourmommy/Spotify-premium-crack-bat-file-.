@@ -37,10 +37,6 @@
 
 <strong>•</strong> Just run <strong><a href="/uninstall.bat">uninstall.bat</a></strong>
 
-<h1>You can support me by Donation:</h1>
-
-<a href="https://buymeacoffee.com/r3mz0/" target="_blank"><img src="https://cdn.discordapp.com/attachments/417017959802994710/1132664651528798270/bmac.png" width="205" alt="bmc.link/r3mz0" /></a>
-
 <h1>Disclaimer:</h1>
 
 All this files with SpotX is a modified version of the official Spotify client, provided as an evaluation version. 
